@@ -1,4 +1,1 @@
-# basic-dockerfile
-
-> roadmap.sh challenge — devops > beginner
-
+https://roadmap.sh/projects/basic-dockerfile
